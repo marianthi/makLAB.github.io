@@ -1,0 +1,27 @@
+name: mak Lab
+output_dir: '.'
+navbar:
+  title: home
+  left:
+  - text: people
+    href: people.html
+  - text: projects
+    href: projects.html
+  - text: publications
+    href: publications.html
+  - text: collaborators
+    href: collaborators.html
+  - text: news
+    href: labNews.html
+  - text: misc
+    href: misc.html
+    
+  right:
+  - icon: fa-envelope fa-lg
+    href: mailto:<mk3961@cumc.columbia.edu>
+output:
+  html_document:
+    lib_dir: site_libs
+    self_contained: no
+    css: style.css
+    theme: cosmo

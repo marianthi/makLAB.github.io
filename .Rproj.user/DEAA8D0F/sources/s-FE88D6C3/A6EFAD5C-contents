@@ -47,7 +47,7 @@ htmltools::tagList(rmarkdown::html_dependency_font_awesome())
 - [Mailman School of Public Health](https://www.mailman.columbia.edu/){target="_blank"}
 - International Society for Environmental Epidemiology, [ISEE](https://www.iseepi.org/Public/Home/Public/Default.aspx){target="_blank"}
 - ISEE [North American Chapter](https://www.iseepi.org/Public/Chapters/North-American/Public/Regional_Chapters/NA_Chapter.aspx?hkey=b9352075-0b5d-43c3-aac0-ce581e024900){target="_blank"}
-- Skills for Health And Research Professionals ([SHARP](https://www.mailman.columbia.edu/research/precision-prevention/sharp-training-skills-health-and-research-professionals)){target="_blank"} Training
+- Skills for Health And Research Professionals ([SHARP](https://www.mailman.columbia.edu/research/precision-prevention/sharp-training-skills-health-and-research-professionals){target="_blank"}) Training
 - [Columbia Center for Children's Environmental Health](https://ccceh.org/){target="_blank"}
 - [The NIEHS Center for Environmental Health in Northern Manhattan](https://www.mailman.columbia.edu/research/niehs-center-environmental-health-northern-manhattan){target="_blank"}
 

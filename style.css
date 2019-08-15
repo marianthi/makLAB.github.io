@@ -1,0 +1,37 @@
+.navbar-default {
+    background-color: #1D4F91!important;
+    border-color: #1D4F91;
+
+}
+
+.navbar-nav li a:hover, .navbar-nav > .active > a {
+  background-color: #0077C8 !important; 
+  text-decoration: none;
+}
+
+.col2 {
+    columns: 2 200px;         /* number of columns and width in pixels*/
+    -webkit-columns: 2 200px; /* chrome, safari */
+    -moz-columns: 2 200px;    /* firefox */
+    }
+
+h1 {
+  color: #1D4F91
+}
+
+h2 {
+  color: #1D4F91
+}
+
+h3 {
+  color: #1D4F91
+}
+
+h4 {
+  color: #1D4F91
+}
+
+h5 {
+  color: #75787B
+}
+

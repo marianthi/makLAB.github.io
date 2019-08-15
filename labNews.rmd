@@ -2,38 +2,38 @@
 title: "makLab news"
 ---
 
-### makLab presence @ [ISEE 2019](https://isee2019.org/)
+### makLab presence @ [ISEE 2019](https://isee2019.org/){target="_blank"}
 
 #### oral presentation sessions (OPS)
 
 - OPS 01, Monday, 08.26, 10.30-12.00: Understudied environmental health issues <br> 
--- Tampon use, environmental chemicals and oxidative stress, [Marianthi-Anna Kioumourtzoglou](https://www.mailman.columbia.edu/people/our-faculty/mk3961) 
+-- Tampon use, environmental chemicals and oxidative stress, [Marianthi-Anna Kioumourtzoglou](https://www.mailman.columbia.edu/people/our-faculty/mk3961){target="_blank"} 
 
 - OPS 21, Monday, 08.26, 16.30-17.30: Methodological progress in chemicals health effects research <br>
--- An Overview of Methods to Address Distinct Research Questions on Environmental Mixtures: An Application to Persistent Organic Pollutants and Leukocyte Telomere Length, [Yanelli N<span>&#250;</span><span>&#241;</span>ez](https://yanellinunez.github.io)
+-- An Overview of Methods to Address Distinct Research Questions on Environmental Mixtures: An Application to Persistent Organic Pollutants and Leukocyte Telomere Length, [Yanelli N<span>&#250;</span><span>&#241;</span>ez](https://yanellinunez.github.io){target="_blank"}
 
 - OPS 49, Tuesday, 08.27, 10.30-12.00: Air pollution exposure methods <br> 
 -- Short-term PM<sub>2.5</sub> and cardiovascular admissions in NY State: assessing sensitivity of exposure model choice, Mike He <br> 
--- Bayesian Nonparametric Ensemble for PM<sub>2.5</sub> Prediction and Uncertainty Characterization, [Marianthi-Anna Kioumourtzoglou](https://www.mailman.columbia.edu/people/our-faculty/mk3961)
+-- Bayesian Nonparametric Ensemble for PM<sub>2.5</sub> Prediction and Uncertainty Characterization, [Marianthi-Anna Kioumourtzoglou](https://www.mailman.columbia.edu/people/our-faculty/mk3961){target="_blank"}
 
 - OPS 54, Wednesday, 08.28, 13.30-15.00: Air pollution and pregnancy outcomes <br> 
--- Air Pollution and Risk of Chronic Placental Abruption: A Study of Births in New York City, 2008-2014, [Marianthi-Anna Kioumourtzoglou](https://www.mailman.columbia.edu/people/our-faculty/mk3961)
+-- Air Pollution and Risk of Chronic Placental Abruption: A Study of Births in New York City, 2008-2014, [Marianthi-Anna Kioumourtzoglou](https://www.mailman.columbia.edu/people/our-faculty/mk3961){target="_blank"}
 
 #### early morning sessions (EMS)
 
 - EMS 13, Wednesday, 08.28, 07.30-08.30: The importance of engaging in public policy in the age of anti-science <br> 
--- An event sponsored by the [ISEE North American Chapter](https://www.iseepi.org/Public/Chapters/North-American/Public/Regional_Chapters/NA_Chapter.aspx?hkey=b9352075-0b5d-43c3-aac0-ce581e024900)
+-- An event sponsored by the [ISEE North American Chapter](https://www.iseepi.org/Public/Chapters/North-American/Public/Regional_Chapters/NA_Chapter.aspx?hkey=b9352075-0b5d-43c3-aac0-ce581e024900){target="_blank"}
 
 
 #### thematic poster sessions (TPS)
 
 - TPS 622, Monday 08.26, 15.00-16.30: Exposure to flame retardants and plasticizers <br>
--- Patterns of phenol, paraben, and phthalate exposure in NYC women, [Lizzy Gibson](https://lizzyagibson.github.io)
+-- Patterns of phenol, paraben, and phthalate exposure in NYC women, [Lizzy Gibson](https://lizzyagibson.github.io){target="_blank"}
 
 - TPS 624, Monday 08.26, 15.00-16.30: Exposures to POPs, VOC and other chemicals <br>
--- Gasoline Vapor Emissions During Vehicle Refueling Events, New York City, [Jenni Shearston](https://jenni-shearston.github.io/)
+-- Gasoline Vapor Emissions During Vehicle Refueling Events, New York City, [Jenni Shearston](https://jenni-shearston.github.io/){target="_blank"}
 
 - TPS 664, Tuesday 08.27, 15.00-16.30: Climate change: temperature effects 2 <br>
--- The Role of Hourly Temperature in Risk of Myocardial Infarction, [Sebastian Rowland](https://s-rowland.github.io/srowland.github.io/index.html)
+-- The Role of Hourly Temperature in Risk of Myocardial Infarction, [Sebastian Rowland](https://s-rowland.github.io/srowland.github.io/index.html){target="_blank"}
 
-For the full ISEE 2019 program please visit [here](https://cbd.eventsair.com/QuickEventWebsitePortal/isee2019/program/Agenda).
+For the full ISEE 2019 program please visit [here](https://cbd.eventsair.com/QuickEventWebsitePortal/isee2019/program/Agenda){target="_blank"}.

@@ -6,7 +6,7 @@ title: "publications"
 htmltools::tagList(rmarkdown::html_dependency_font_awesome())
 ```
 
-makLab members are <b>bolded</b>
+makLab members are <b>bolded</b> 
 
 <!-- <div class="expand collapsed" data-toggle="collapse" data-target="#uniqueID" aria-expanded="false" aria-controls="uniqueID"> -->
 <!-- This section will trigger the appearance of the other section -->
@@ -33,43 +33,43 @@ makLab members are <b>bolded</b>
 <small><sup><span>&#8224;</span></sup>The authors contributed equally</small>
 
 
-Choirat C, Braun D, <b>Kioumourtzoglou M-A</b>, _Data Science in Environmental Health Research_, Current Epidemiology Reports, In Press, 2019 [[Link](https://link.springer.com/article/10.1007/s40471-019-00205-5){target=__blank_}]
+Choirat C, Braun D, <b>Kioumourtzoglou M-A</b>, _Data Science in Environmental Health Research_, Current Epidemiology Reports, Epub ahead of print, 2019 [[link](https://link.springer.com/article/10.1007/s40471-019-00205-5){target=__blank_}]
 
 
-Jin X, Fiore AM, Civerolo K, Bi J, Liu Y, van Donkelaar A, Martin RV, Al-Hamdan M, Zhang Y, Insaf TZ, <b>Kioumourtzoglou M-A</b>, <b>He MZ</b>, Kinney PL. _Comparison of multiple PM<sub>2.5</sub> exposure products for estimating health benefits of emission controls over New York State, USA_, Environmental Research Letters, 14 084023, 2019 [[Link](https://iopscience.iop.org/article/10.1088/1748-9326/ab2dcb){target=__blank_}]
+Jin X, Fiore AM, Civerolo K, Bi J, Liu Y, van Donkelaar A, Martin RV, Al-Hamdan M, Zhang Y, Insaf TZ, <b>Kioumourtzoglou M-A</b>, <b>He MZ</b>, Kinney PL. _Comparison of multiple PM<sub>2.5</sub> exposure products for estimating health benefits of emission controls over New York State, USA_, Environmental Research Letters, 14 084023, 2019 [[link](https://iopscience.iop.org/article/10.1088/1748-9326/ab2dcb){target=__blank_}]
 
 
-Westervelt DM, Ma CT, <b>He MZ</b>, Fiore AM, Kinney PL, <b>Kioumourtzoglou M-A</b>, Wang S, Xing J, Ding D, Correa G, _Mid-21st century ozone air quality and health burden in China under emissions scenarios and climate change_, Environmental Research Letters, 14 074030, 2019 [[Link](https://iopscience.iop.org/article/10.1088/1748-9326/ab260b){target=__blank_}]
+Westervelt DM, Ma CT, <b>He MZ</b>, Fiore AM, Kinney PL, <b>Kioumourtzoglou M-A</b>, Wang S, Xing J, Ding D, Correa G, _Mid-21st century ozone air quality and health burden in China under emissions scenarios and climate change_, Environmental Research Letters, 14 074030, 2019 [[link](https://iopscience.iop.org/article/10.1088/1748-9326/ab260b){target=__blank_}]
 
 
-Papadogeorgou G, <b>Kioumourtzoglou M-A</b>, Braun D, Zanobetti A, _Low levels of air pollution and health: Effect estimates, methodological challenges and future directions_, Current Environmental Health Reports, In Press, 2019 [[Link](https://www.ncbi.nlm.nih.gov/pubmed/31090042)]
+Papadogeorgou G, <b>Kioumourtzoglou M-A</b>, Braun D, Zanobetti A, _Low levels of air pollution and health: Effect estimates, methodological challenges and future directions_, Current Environmental Health Reports, Epub ahead of print, 2019 [[link](https://www.ncbi.nlm.nih.gov/pubmed/31090042){target=__blank_}]
 
 
-<b>Gibson EA</b>, Goldsmith J, <b>Kioumourtzoglou M-A</b>, _Complex Mixtures, Complex Analyses: an Emphasis on Interpretable Results._ Current Environmental Health Reports, In Press, 2019
+<b>Gibson EA</b>, Goldsmith J, <b>Kioumourtzoglou M-A</b>, _Complex Mixtures, Complex Analyses: an Emphasis on Interpretable Results_, Current Environmental Health Reports, 6(2):53-61, 2019 [[link](https://www.ncbi.nlm.nih.gov/pubmed/31069725){target=__blank_}]
 
 
-Fry D, <b>Kioumourtzoglou M-A</b>, Treat CA, Burke K, Evans D, Tabb LP, Carrion D, Perera FP, Lovasi GS, _Development and validation of a method to quantify benefits of clean-air taxi legislation._ Journal of exposure science & environmental epidemiology, In Press, 2019
+Fry D, <b>Kioumourtzoglou M-A</b>, Treat CA, Burke K, Evans D, Tabb LP, Carrion D, Perera FP, Lovasi GS, _Development and validation of a method to quantify benefits of clean-air taxi legislation_, Journal of exposure science & environmental epidemiology, Epub ahead of print, 2019 [[link](https://www.nature.com/articles/s41370-019-0141-6){target=__blank_}]
 
 
-Domingo-Relloso A, Grau-Perez M, Martin-Escudero JC, Briongos-Figuero L, Gomez-Ariza JL, Garcia-Barrera T, DueÃ±as-Laita A, Bobb JF, Chaves J, <b>Kioumourtzoglou M-A</b>, Navas-Acien A, Redon-Mas J, Tellez-Plaza M, _The association of urine metals and metal mixtures with cardiovascular incidence in an adult population from Spain: the Hortega Follow-Up Study._ International Journal of Epidemiology, In Press, 2019
+Domingo-Relloso A, Grau-Perez M, Martin-Escudero JC, Briongos-Figuero L, Gomez-Ariza JL, Garcia-Barrera T, DueÃ±as-Laita A, Bobb JF, Chaves J, <b>Kioumourtzoglou M-A</b>, Navas-Acien A, Redon-Mas J, Tellez-Plaza M, _The association of urine metals and metal mixtures with cardiovascular incidence in an adult population from Spain: the Hortega Follow-Up Study_, International Journal of Epidemiology, Epub ahead of print, 2019 [[link](https://academic.oup.com/ije/advance-article/doi/10.1093/ije/dyz061/5435736){target=__blank_}]
 
 
-Hilpert M, Johnson M, <b>Kioumourtzoglou M-A</b>, Domingo-Relloso A, Peters A, Adria-Mora B, HernÃ¡ndez D, Ross J, Chillrud SA, _A new approach for inferring traffic-related air pollution use of radar-calibrated crowd-sourced traffic data_, Environment International, 127:142-159, 2019
+Hilpert M, Johnson M, <b>Kioumourtzoglou M-A</b>, Domingo-Relloso A, Peters A, Adria-Mora B, HernÃ¡ndez D, Ross J, Chillrud SA, _A new approach for inferring traffic-related air pollution use of radar-calibrated crowd-sourced traffic data_, Environment International, 127:142-159, 2019 [[link](https://www.sciencedirect.com/science/article/pii/S0160412018315137){target=__blank_}]
 
 
-McGee G, Weisskopf MG, <b>Kioumourtzoglou M-A</b>, Coull BA, Haneuse S, _Informatively empty clusters with application to multigenerational studies_, Biostatistics, In Press, 2019
+McGee G, Weisskopf MG, <b>Kioumourtzoglou M-A</b>, Coull BA, Haneuse S, _Informatively empty clusters with application to multigenerational studies_, Biostatistics, Epub ahead of print, 2019 [[link](https://academic.oup.com/biostatistics/advance-article/doi/10.1093/biostatistics/kxz005/5432286){target=__blank_}]
 
 
-Gao X, Colicino E, Shen J, <b>Kioumourtzoglou M-A</b>, Just AC, Nwanaji-Enwerem J, Coull BA, Lin X, Vokonas P, Zheng Y, Hou L, Schwartz J, Baccarelli A, _Impacts of air pollution, temperature, and relative humidity on leukocyte distribution: an epigenetic perspective_, Environment International, 126:395-405, 2019 
+Gao X, Colicino E, Shen J, <b>Kioumourtzoglou M-A</b>, Just AC, Nwanaji-Enwerem J, Coull BA, Lin X, Vokonas P, Zheng Y, Hou L, Schwartz J, Baccarelli A, _Impacts of air pollution, temperature, and relative humidity on leukocyte distribution: an epigenetic perspective_, Environment International, 126:395-405, 2019[[link](https://www.sciencedirect.com/science/article/pii/S0160412018330642?via%3Dihub){target=__blank_}]
 
 
-<b>Singh J</b>, Mumford SL, Pollack AZ, Schisterman EF, Weisskopf MG, Navas-Acien A, <b>Kioumourtzoglou M-A</b>, _Tampon Use, Environmental Chemicals and Oxidative Stress in the BioCycle Study_, Environmental Health, 18 (11), 2019
+<b>Singh J</b>, Mumford SL, Pollack AZ, Schisterman EF, Weisskopf MG, Navas-Acien A, <b>Kioumourtzoglou M-A</b>, _Tampon Use, Environmental Chemicals and Oxidative Stress in the BioCycle Study_, Environmental Health, 18 (11), 2019 [[link](https://ehjournal.biomedcentral.com/articles/10.1186/s12940-019-0452-z){target=__blank_}]
 
 
-Liew Z, <b>Kioumourtzoglou M-A</b>, Roberts AL, O'Reilly <span>&#201;</span>J, Ascherio A, Weisskopf MG, _Negative control exposure analysis to evaluate confounding: an example of acetaminophen exposure and ADHD in the Nurses' Health Study_, American Journal of Epidemiology, 188(4):768-775, 2019
+Liew Z, <b>Kioumourtzoglou M-A</b>, Roberts AL, O'Reilly <span>&#201;</span>J, Ascherio A, Weisskopf MG, _Negative control exposure analysis to evaluate confounding: an example of acetaminophen exposure and ADHD in the Nurses' Health Study_, American Journal of Epidemiology, 188(4):768-775, 2019 [[link](https://www.ncbi.nlm.nih.gov/pubmed/30923825){target=__blank_}]
 
 
-Wu X, Braun D, <b>Kioumourtzoglou M-A</b>, Choirat C, Di Q, Dominici F. _Causal inference in the context of an error prone exposure: Air pollution and mortality_, Annals of Applied Statistics, 13(1):520-547, 2019
+Wu X, Braun D, <b>Kioumourtzoglou M-A</b>, Choirat C, Di Q, Dominici F. _Causal inference in the context of an error prone exposure: Air pollution and mortality_, Annals of Applied Statistics, 13(1):520-547, 2019 [[link](https://projecteuclid.org/euclid.aoas/1554861659){target=__blank_}]
 
 <!-- </div> -->
 
@@ -92,34 +92,34 @@ Wu X, Braun D, <b>Kioumourtzoglou M-A</b>, Choirat C, Di Q, Dominici F. _Causal 
 <div class="collapse" id="2018">
 
 
-Taylor KM, <b>Kioumourtzoglou M-A</b>, Clover J, Coull BA, Dennerlein JT, Bellinger DC, Weisskopf MG. _Concussion History and Cognitive Function in a Large Cohort of Adolescent Athletes_, The American Journal of Sports Medicine, 46(13):3262-3270, 2018
+Taylor KM, <b>Kioumourtzoglou M-A</b>, Clover J, Coull BA, Dennerlein JT, Bellinger DC, Weisskopf MG. _Concussion History and Cognitive Function in a Large Cohort of Adolescent Athletes_, The American Journal of Sports Medicine, 46(13):3262-3270, 2018 [[link](https://www.ncbi.nlm.nih.gov/pubmed/30230912){target=__blank_}]
 
 
-Kupsco A, <b>Kioumourtzoglou M-A</b>, Just AC, Amarasiriwardena C, Estrada-Gutierrez G, Cantoral A, et al. _Analysis of prenatal metals status and childhood cardio-metabolic risk using Bayesian Kernel Machine Regression (BKMR) to assess mixture and interaction effects_, Epidemiology, 30(2):263-273, 2018
+Kupsco A, <b>Kioumourtzoglou M-A</b>, Just AC, Amarasiriwardena C, Estrada-Gutierrez G, Cantoral A, et al. _Analysis of prenatal metals status and childhood cardio-metabolic risk using Bayesian Kernel Machine Regression (BKMR) to assess mixture and interaction effects_, Epidemiology, 30(2):263-273, 2018 [[link](https://journals.lww.com/epidem/fulltext/2019/03000/Prenatal_Metal_Concentrations_and_Childhood.16.aspx){target=__blank_}]
 
 
-Raz R, <b>Kioumourtzoglou M-A</b>, Weisskopf MG. _Live Birth Bias and Observed Associations between Air Pollution and Autism_, American Journal of Epidemiology, 187(11):2292-2296, 2018 <br>
+Raz R, <b>Kioumourtzoglou M-A</b>, Weisskopf MG. _Live Birth Bias and Observed Associations between Air Pollution and Autism_, American Journal of Epidemiology, 187(11):2292-2296, 2018 [[link](https://www.ncbi.nlm.nih.gov/pubmed/30099488){target=__blank_}] <br>
 <small>*Selected as one of the 10 best 2018 AJE Articles of the Year</small>
 
 
-Wurth R, <b>Kioumourtzoglou M-A</b>, Tucker K, Griffith J, Manjourides J, Suh HH. _Fine Particle Sources and Cognitive Function in an Older Puerto Rican Cohort in Boston_, Environmental Epidemiology, 2(3):e022, 2018
+Wurth R, <b>Kioumourtzoglou M-A</b>, Tucker K, Griffith J, Manjourides J, Suh HH. _Fine Particle Sources and Cognitive Function in an Older Puerto Rican Cohort in Boston_, Environmental Epidemiology, 2(3):e022, 2018 [[link](https://www.ncbi.nlm.nih.gov/pubmed/30506018){target=__blank_}]
 
 
-<b>Kioumourtzoglou M-A</b><sup><span>&#8224;</span></sup>, Raz R<sup><span>&#8224;</span></sup>, Wilson A, Fluss R, Nirel R, Broday DM, Yuval, Hacker MR, McElrath TF, Grotto I, Koutrakis P, Weisskopf MG. _Traffic-related air pollution and pregnancy loss_, Epidemiology, 30(1):4-10, 2018 <br>
+<b>Kioumourtzoglou M-A</b><sup><span>&#8224;</span></sup>, Raz R<sup><span>&#8224;</span></sup>, Wilson A, Fluss R, Nirel R, Broday DM, Yuval, Hacker MR, McElrath TF, Grotto I, Koutrakis P, Weisskopf MG. _Traffic-related air pollution and pregnancy loss_, Epidemiology, 30(1):4-10, 2018 [[link](https://www.ncbi.nlm.nih.gov/pubmed/30199416){target=__blank_}]  <br>
 <small><sup><span>&#8224;</span></sup>The authors contributed equally</small>
 
 
-Dickerson AS, Hansen J, <b>Kioumourtzoglou M-A</b>, Specht AJ, Gredal O, Weisskopf MG. _Study of occupation and amyotrophic lateral sclerosis in a Danish cohort_, Occup Environ Med, 75(9):630-638, 2018
+Dickerson AS, Hansen J, <b>Kioumourtzoglou M-A</b>, Specht AJ, Gredal O, Weisskopf MG. _Study of occupation and amyotrophic lateral sclerosis in a Danish cohort_, Occup Environ Med, 75(9):630-638, 2018 [[link](https://www.ncbi.nlm.nih.gov/pubmed/29941657){target=__blank_}]
 
 
-Wasserman GA, Liu X, Parvez F, Chen Y, Factor-Litvak P, Loiacono NJ, Levy D, Shahriar H, Uddin MN, Islam T, Lomax A, Saxena R, Gibson EA, <b>Kioumourtzoglou M-A</b>, Balac O, et al., _A cross-sectional study of water arsenic exposure and intellectual function in adolescence in Araihazar, Bangladesh_, Environment International, 118:304-313, 2018
+Wasserman GA, Liu X, Parvez F, Chen Y, Factor-Litvak P, Loiacono NJ, Levy D, Shahriar H, Uddin MN, Islam T, Lomax A, Saxena R, Gibson EA, <b>Kioumourtzoglou M-A</b>, Balac O, et al., _A cross-sectional study of water arsenic exposure and intellectual function in adolescence in Araihazar, Bangladesh_, Environment International, 118:304-313, 2018 [[link](https://www.ncbi.nlm.nih.gov/pubmed/29933234){target=__blank_}]
 
 
-<b>Kioumourtzoglou M-A</b>, Coull BA, O'Reilly <span>&#201;M/span>J, Ascherio A, Weisskopf MG, _Association of Exposure to Diethylstilbestrol During Pregnancy with Multigenerational Neurodevelopmental Deficits_, JAMA Pediatrics, 172(7):670-677, 2018 <br>
+<b>Kioumourtzoglou M-A</b>, Coull BA, O'Reilly <span>&#201;M/span>J, Ascherio A, Weisskopf MG, _Association of Exposure to Diethylstilbestrol During Pregnancy with Multigenerational Neurodevelopmental Deficits_, JAMA Pediatrics, 172(7):670-677, 2018 [[link](https://jamanetwork.com/journals/jamapediatrics/fullarticle/2680954){target=__blank_}] <br>
 <small>*Selected as paper of the month by NIEHS Environmental Factor</small>
 
 
-Ananth CV, <b>Kioumourtzoglou M-A</b>, Huang Y, Ross Z, Friedman AM, Williams MA, Wang S, Mittleman MA, Schwartz J, _Exposures to Air Pollution and Risk of Placental Abruption of Acute Onset: A Case-Crossover Study of Births in New York City_, Epidemiology, 29(5):631-638, 2018
+Ananth CV, <b>Kioumourtzoglou M-A</b>, Huang Y, Ross Z, Friedman AM, Williams MA, Wang S, Mittleman MA, Schwartz J, _Exposures to Air Pollution and Risk of Placental Abruption of Acute Onset: A Case-Crossover Study of Births in New York City_, Epidemiology, 29(5):631-638, 2018 [[link](https://www.ncbi.nlm.nih.gov/pubmed/29863531){target=__blank_}]
 
 </div>
 
@@ -130,16 +130,16 @@ Ananth CV, <b>Kioumourtzoglou M-A</b>, Huang Y, Ross Z, Friedman AM, Williams MA
 <div class="collapse" id="2017">
 
 
-Achilleos S, <b>Kioumourtzoglou M-A</b>, Wu C-D, Schwartz JD, Koutrakis P, Papatheodorou S, _Acute Effects of Fine Particulate Matter Constituents on Mortality: A Systematic Review and Meta-regression Analysis_, Environment International, 109:89-100, 2017
+Achilleos S, <b>Kioumourtzoglou M-A</b>, Wu C-D, Schwartz JD, Koutrakis P, Papatheodorou S, _Acute Effects of Fine Particulate Matter Constituents on Mortality: A Systematic Review and Meta-regression Analysis_, Environment International, 109:89-100, 2017 [[link](https://www.sciencedirect.com/science/article/pii/S0160412016310418){target=__blank_}]
 
 
-Seals RM, <b>Kioumourtzoglou M-A</b>, Gredal O, Hansen J, Weisskopf MG, _Occupational Formaldehyde and ALS_, European Journal of Epidemiology, 32(10): 893-898, 2017
+Seals RM, <b>Kioumourtzoglou M-A</b>, Gredal O, Hansen J, Weisskopf MG, _Occupational Formaldehyde and ALS_, European Journal of Epidemiology, 32(10): 893-898, 2017 [[link](https://www.ncbi.nlm.nih.gov/pubmed/28585120){target=__blank_}]
 
 
-James P, <b>Kioumourtzoglou M-A</b>, Hart JE, Banay RF, Kloog I, Laden F, _Interrelationships between Walkability, Air Pollution, Greenness, and Body Mass Index_, Epidemiology, 28(6): 780-788, 2017
+James P, <b>Kioumourtzoglou M-A</b>, Hart JE, Banay RF, Kloog I, Laden F, _Interrelationships between Walkability, Air Pollution, Greenness, and Body Mass Index_, Epidemiology, 28(6): 780-788, 2017 [[link](https://www.ncbi.nlm.nih.gov/pubmed/28767514){target=__blank_}]
 
 
-<b>Kioumourtzoglou M-A</b>, Power MC, Hart JE, Okereke OI, Coull BA, Laden F, Weisskopf MG, _The association between air pollution and depression onset among middle-aged and older women_, American Journal of Epidemiology, 185(9):801-809, 2017
+<b>Kioumourtzoglou M-A</b>, Power MC, Hart JE, Okereke OI, Coull BA, Laden F, Weisskopf MG, _The association between air pollution and depression onset among middle-aged and older women_, American Journal of Epidemiology, 185(9):801-809, 2017 [[link](https://www.ncbi.nlm.nih.gov/pubmed/28369173){target=__blank_}]
 
 </div>
 
@@ -149,13 +149,13 @@ James P, <b>Kioumourtzoglou M-A</b>, Hart JE, Banay RF, Kloog I, Laden F, _Inter
 
 <div class="collapse" id="1arxiv">
 
-Liu JZ, Paisley J, <b>Kioumourtzoglou M-A</b>, Coull BA, _Adaptive ensemble learning of spatiotemporal processes with calibrated predictive uncertainty: a Bayesian nonparametric approach_, arXiv:1904.00521 
+Liu JZ, Paisley J, <b>Kioumourtzoglou M-A</b>, Coull BA, _Adaptive ensemble learning of spatiotemporal processes with calibrated predictive uncertainty: a Bayesian nonparametric approach_, [arXiv:1904.00521](https://arxiv.org/abs/1904.00521){target=__blank_}
 
-Wu X, Mealli F, <b>Kioumourtzoglou M-A</b>, Dominici F, Braun D, _Matching on generalized propensity scores with continuous exposures_, arXiv:1812.06575
+Wu X, Mealli F, <b>Kioumourtzoglou M-A</b>, Dominici F, Braun D, _Matching on generalized propensity scores with continuous exposures_, [arXiv:1812.06575](https://arxiv.org/abs/1812.06575){target=__blank_}
 
-Liu JZ, Paisley J, <b>Kioumourtzoglou M-A</b>, Coull BA, _Adaptive and calibrated ensemble learning with dependent tail-free process_, arXiv:1812.03350
+Liu JZ, Paisley J, <b>Kioumourtzoglou M-A</b>, Coull BA, _Adaptive and calibrated ensemble learning with dependent tail-free process_, [arXiv:1812.03350](https://arxiv.org/abs/1812.03350){target=__blank_}
 
-Wu X, Braun D, <b>Kioumourtzoglou M-A</b>, Choirat C, Di Q, Dominici F, _Causal inference in the context of an error prone exposure: Air pollution and Mortality_, arXiv:1712.00642
+Wu X, Braun D, <b>Kioumourtzoglou M-A</b>, Choirat C, Di Q, Dominici F, _Causal inference in the context of an error prone exposure: Air pollution and Mortality_, [arXiv:1712.00642](https://arxiv.org/abs/1712.00642){target=__blank_}
 
 
 </div>
@@ -167,6 +167,6 @@ Wu X, Braun D, <b>Kioumourtzoglou M-A</b>, Choirat C, Di Q, Dominici F, _Causal 
 
 <div class="collapse" id="1edit">
 
-<b>Kioumourtzoglou M-A</b>, _Identifying Modifiable Risk Factors of Mental Disorders: The Importance of Urban Environmental Exposures_, JAMA Psychiatry, Epub ahead of print, 2019
+<b>Kioumourtzoglou M-A</b>, _Identifying Modifiable Risk Factors of Mental Disorders: The Importance of Urban Environmental Exposures_, JAMA Psychiatry, 76(6):569–570, 2019 [[link](https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2729438){target=__blank_}]
 
 </div>

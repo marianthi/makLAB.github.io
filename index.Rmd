@@ -8,14 +8,14 @@ title: "makLab"
 
 <br>
 
-Our lab lives in the [Environmental Health Sciences](https://www.mailman.columbia.edu/academics/departments/environmental-health-sciences-ehs) Department at [Columbia University's](https://www.columbia.edu/) [Mailman School of Public Health](https://www.mailman.columbia.edu/). <br>
+Our lab lives in the [Environmental Health Sciences](https://www.mailman.columbia.edu/academics/departments/environmental-health-sciences-ehs){target="_blank"} Department at [Columbia University's](https://www.columbia.edu/){target="_blank"} [Mailman School of Public Health](https://www.mailman.columbia.edu/){target="_blank"}. <br>
 Our research focuses on methodological issues in environmental epidemiology.
 <br>
 <br>
 
 #### news
 
-makLab is going to [ISEE 2019](https://isee2019.org/)! See [here](labNews.html) a list of our presentations.
+makLab is going to [ISEE 2019](https://isee2019.org/){target="_blank"}! See [here](labNews.html) a list of our presentations.
 <br>
 <br>
 
@@ -23,9 +23,9 @@ makLab is going to [ISEE 2019](https://isee2019.org/)! See [here](labNews.html) 
 
 makLab
 <br>
-[Department of Environmental Health Sciences](https://www.mailman.columbia.edu/become-student/departments/environmental-health-sciences-ehs)
+[Department of Environmental Health Sciences](https://www.mailman.columbia.edu/become-student/departments/environmental-health-sciences-ehs){target="_blank"}
 <br>
-[Columbia University Mailman School of Public Health](https://www.mailman.columbia.edu/)
+[Columbia University Mailman School of Public Health](https://www.mailman.columbia.edu/){target="_blank"}
 <br>
 722 West 168<sup>th</sup> Street, #1104B
 <br>

@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "ISO8859-1",
     "folds" : "",
-    "hash" : "0",
+    "hash" : "241426367",
     "id" : "72701984",
-    "lastKnownWriteTime" : 1565913239,
-    "last_content_update" : 1565913239623,
+    "lastKnownWriteTime" : 1565914773,
+    "last_content_update" : 1565914773648,
     "path" : "C:/Users/mk3961/OneDrive - cumc.columbia.edu/makLab_website/website_template/website_template/makLAB.github.io/index.Rmd",
     "project_path" : "index.Rmd",
     "properties" : {
-        "cursorPosition" : "37,1",
-        "scrollLine" : "21"
+        "cursorPosition" : "34,0",
+        "scrollLine" : "14"
     },
     "relative_order" : 3,
     "source_on_save" : false,

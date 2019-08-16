@@ -17,7 +17,7 @@ title: "makLab members"
 
 ![](mikeCropped.jpg){ width=25% } Mike Z. He  
 
-![](yanelliCropped.jpg){ width=25% } [Yanelli N<span>&#250;</span><span>&#241;</span>ez](https://yanellinunez.github.io){target="_blank"}  
+![](yanelliCropped.jpg){ width=25% } [Yanelli N<span>&#250;&#241;</span>ez](https://yanellinunez.github.io){target="_blank"}  
 <br>
 
 ![](sebastianCropped.png){ width=25% } [Sebastian Rowland](https://s-rowland.github.io/srowland.github.io/index.html){target="_blank"}  

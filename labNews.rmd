@@ -10,7 +10,7 @@ title: "makLab news"
 -- Tampon use, environmental chemicals and oxidative stress, [Marianthi-Anna Kioumourtzoglou](https://www.mailman.columbia.edu/people/our-faculty/mk3961){target="_blank"} 
 
 - [OPS 21](https://cbd.eventsair.com/QuickEventWebsitePortal/isee2019/program/Agenda/AgendaItemDetail?id=64122fba-849b-49af-a224-419e4ee9ba83){target="_blank"}, Monday, 08.26, 16.30-17.30: Methodological progress in chemicals health effects research <br>
--- An Overview of Methods to Address Distinct Research Questions on Environmental Mixtures: An Application to Persistent Organic Pollutants and Leukocyte Telomere Length, [Yanelli N<span>&#250;</span><span>&#241;</span>ez](https://yanellinunez.github.io){target="_blank"}
+-- An Overview of Methods to Address Distinct Research Questions on Environmental Mixtures: An Application to Persistent Organic Pollutants and Leukocyte Telomere Length, [Yanelli N<span>&#250;&#241;</span>ez](https://yanellinunez.github.io){target="_blank"}
 
 - [OPS 49](https://cbd.eventsair.com/QuickEventWebsitePortal/isee2019/program/Agenda/AgendaItemDetail?id=011663fb-b606-46ba-87e6-3a78dd33f3fc){target="_blank"}, Tuesday, 08.27, 10.30-12.00: Air pollution exposure methods <br> 
 -- Short-term PM<sub>2.5</sub> and cardiovascular admissions in NY State: assessing sensitivity of exposure model choice, Mike He <br> 

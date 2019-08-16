@@ -5,7 +5,7 @@ navbar:
   left:
   - text: people
     href: people.html
-  - text: projects
+  - text: research
     href: projects.html
   - text: publications
     href: publications.html

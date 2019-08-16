@@ -37,11 +37,11 @@ title: "collaborators"
 
 #### Washington University in St Louis
 
-[Randall Martin](https://engineering.wustl.edu/Profiles/Pages/Randall-Martin.aspx), Professor, Energy, Environmental ＆ Chemical Engineering <br>
+[Randall Martin](https://engineering.wustl.edu/Profiles/Pages/Randall-Martin.aspx), Professor, Energy, Environmental <span>&#38;</span> Chemical Engineering <br>
 
 #### Mt Sinai
 
-[Allan Just](https://www.mountsinai.org/profiles/allan-just), Assistant Professor, Environmental Medicine & Public Health <br>
+[Allan Just](https://www.mountsinai.org/profiles/allan-just), Assistant Professor, Environmental Medicine <span>&#38;</span> Public Health <br>
 
 #### Boston University
 

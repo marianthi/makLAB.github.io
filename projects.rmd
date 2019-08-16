@@ -1,5 +1,5 @@
 ---
-title: "projects"
+title: "what we are working on"
 ---
 
 under construction

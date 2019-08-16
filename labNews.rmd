@@ -6,34 +6,43 @@ title: "makLab news"
 
 #### oral presentation sessions (OPS)
 
-- OPS 01, Monday, 08.26, 10.30-12.00: Understudied environmental health issues <br> 
+- [OPS 01](https://cbd.eventsair.com/QuickEventWebsitePortal/isee2019/program/Agenda/AgendaItemDetail?id=1fb6e776-51c7-4b88-ba99-e5f9739eaed0){target="_blank"}, Monday, 08.26, 10.30-12.00: Understudied environmental health issues <br> 
 -- Tampon use, environmental chemicals and oxidative stress, [Marianthi-Anna Kioumourtzoglou](https://www.mailman.columbia.edu/people/our-faculty/mk3961){target="_blank"} 
 
-- OPS 21, Monday, 08.26, 16.30-17.30: Methodological progress in chemicals health effects research <br>
+- [OPS 21](https://cbd.eventsair.com/QuickEventWebsitePortal/isee2019/program/Agenda/AgendaItemDetail?id=64122fba-849b-49af-a224-419e4ee9ba83){target="_blank"}, Monday, 08.26, 16.30-17.30: Methodological progress in chemicals health effects research <br>
 -- An Overview of Methods to Address Distinct Research Questions on Environmental Mixtures: An Application to Persistent Organic Pollutants and Leukocyte Telomere Length, [Yanelli N<span>&#250;</span><span>&#241;</span>ez](https://yanellinunez.github.io){target="_blank"}
 
-- OPS 49, Tuesday, 08.27, 10.30-12.00: Air pollution exposure methods <br> 
+- [OPS 49](https://cbd.eventsair.com/QuickEventWebsitePortal/isee2019/program/Agenda/AgendaItemDetail?id=011663fb-b606-46ba-87e6-3a78dd33f3fc){target="_blank"}, Tuesday, 08.27, 10.30-12.00: Air pollution exposure methods <br> 
 -- Short-term PM<sub>2.5</sub> and cardiovascular admissions in NY State: assessing sensitivity of exposure model choice, Mike He <br> 
 -- Bayesian Nonparametric Ensemble for PM<sub>2.5</sub> Prediction and Uncertainty Characterization, [Marianthi-Anna Kioumourtzoglou](https://www.mailman.columbia.edu/people/our-faculty/mk3961){target="_blank"}
 
-- OPS 54, Wednesday, 08.28, 13.30-15.00: Air pollution and pregnancy outcomes <br> 
+- [OPS 54](https://cbd.eventsair.com/QuickEventWebsitePortal/isee2019/program/Agenda/AgendaItemDetail?id=ca339170-f685-4e9c-b3ad-20ed6020445f){target="_blank"}, Wednesday, 08.28, 13.30-15.00: Air pollution and pregnancy outcomes <br> 
 -- Air Pollution and Risk of Chronic Placental Abruption: A Study of Births in New York City, 2008-2014, [Marianthi-Anna Kioumourtzoglou](https://www.mailman.columbia.edu/people/our-faculty/mk3961){target="_blank"}
+
 
 #### early morning sessions (EMS)
 
-- EMS 13, Wednesday, 08.28, 07.30-08.30: The importance of engaging in public policy in the age of anti-science <br> 
+- [EMS 13](https://cbd.eventsair.com/QuickEventWebsitePortal/isee2019/program/Agenda/AgendaItemDetail?id=b7bfa86a-deae-43ee-a357-99005d39c729){target="_blank"}, Wednesday, 08.28, 07.30-08.30: The importance of engaging in public policy in the age of anti-science <br> 
 -- An event sponsored by the [ISEE North American Chapter](https://www.iseepi.org/Public/Chapters/North-American/Public/Regional_Chapters/NA_Chapter.aspx?hkey=b9352075-0b5d-43c3-aac0-ce581e024900){target="_blank"}
 
 
 #### thematic poster sessions (TPS)
 
-- TPS 622, Monday 08.26, 15.00-16.30: Exposure to flame retardants and plasticizers <br>
+- [TPS 622](https://cbd.eventsair.com/QuickEventWebsitePortal/isee2019/program/Agenda/AgendaItemDetail?id=b6d6c711-dd3a-456f-baa6-ea27f317da0e){target="_blank"}, Monday 08.26, 15.00-16.30: Exposure to flame retardants and plasticizers <br>
 -- Patterns of phenol, paraben, and phthalate exposure in NYC women, [Lizzy Gibson](https://lizzyagibson.github.io){target="_blank"}
 
-- TPS 624, Monday 08.26, 15.00-16.30: Exposures to POPs, VOC and other chemicals <br>
+- [TPS 624](https://cbd.eventsair.com/QuickEventWebsitePortal/isee2019/program/Agenda/AgendaItemDetail?id=f153f6b6-9a9b-4f24-9b7b-ac07fa4ca8f0){target="_blank"}, Monday 08.26, 15.00-16.30: Exposures to POPs, VOC and other chemicals <br>
 -- Gasoline Vapor Emissions During Vehicle Refueling Events, New York City, [Jenni Shearston](https://jenni-shearston.github.io/){target="_blank"}
 
-- TPS 664, Tuesday 08.27, 15.00-16.30: Climate change: temperature effects 2 <br>
--- The Role of Hourly Temperature in Risk of Myocardial Infarction, [Sebastian Rowland](https://s-rowland.github.io/srowland.github.io/index.html){target="_blank"}
+- [TPS 664](https://cbd.eventsair.com/QuickEventWebsitePortal/isee2019/program/Agenda/AgendaItemDetail?id=23886f88-0717-4161-bbd0-1968f795ac0e){target="_blank"}, Tuesday 08.27, 15.00-16.30: Climate change: temperature effects 2 <br>
+-- The Role of Hourly Temperature in Risk of Myocardial Infarction, [Sebastian Rowland](https://s-rowland.github.io/srowland.github.io/index.html){target="_blank"} <br>
+-- Impact of the mitochondrial genome on the relationship between short-term changes outdoor temperature and cognitive function, Jacopo Dolcini
+
+
+#### poster discussion sessions (PDS)
+
+- [PDS 68](https://cbd.eventsair.com/QuickEventWebsitePortal/isee2019/program/Agenda/AgendaItemDetail?id=4c5893dd-14b7-4d88-b840-8af7815954c1){target="_blank"}, Monday 08.26, 10.30-12.00: Outdoor air pollution, mortality and morbidity<br>
+-- Assessing the short-term effect of PM<sub>2.5</sub> on cardiovascular hospitalizations in the Medicaid population: a case-crossover study, [Priyanka deSouza](http://priyankadesouza.mit.edu/){target="_blank"}
+
 
 For the full ISEE 2019 program please visit [here](https://cbd.eventsair.com/QuickEventWebsitePortal/isee2019/program/Agenda){target="_blank"}.

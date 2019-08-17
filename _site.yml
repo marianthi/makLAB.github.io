@@ -20,7 +20,7 @@ navbar:
     
   right:
   - icon: fa-envelope fa-lg
-    href: mailto:<mk3961@cumc.columbia.edu>
+    href: mailto:<makLab@cumc.columbia.edu>
 output:
   html_document:
     lib_dir: site_libs

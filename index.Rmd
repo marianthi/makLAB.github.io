@@ -34,6 +34,6 @@ New York, NY 10032
 <br>
 
 
-_website last updated: 08.15.2018_
+_website last updated: `r format(Sys.Date(), "%m.%d.%Y")`_
 
 

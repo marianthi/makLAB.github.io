@@ -28,6 +28,7 @@ makLab members are <b>bolded</b>
 
 <!-- <div class="collapse" id="2019pp"> -->
 
+Chen Y, Wu F, Liu X, Parvez F, LoIacono NJ, <b>Gibson EA</b>, <b>Kioumourtzoglou M-A</b>, Levy D, et al. _Early life and adolescent arsenic exposure from drinking water and blood pressure in adolescence_, Environmental Research, In Press, 2019
 
 <b>Gibson EA</b><sup><span>&#8224;</span></sup>, <b>N<span>&#250;&#241;</span>ez Y</b><sup><span>&#8224;</span></sup>, Abuawad A, Zota AR, Renzetti S, Devick KL, Gennings C, Golsmith J, Coull BA, <b>Kioumourtzoglou M-A</b>, _An Overview of Methods to Address Distinct Research Questions on Environmental Mixtures: An Application to Persistent Organic Pollutants and Leukocyte Telomere Length_, Environmental Health, In Press, 2019 <br>
 <small><sup><span>&#8224;</span></sup>The authors contributed equally</small>

@@ -1,5 +1,5 @@
 ---
-title: "makLab"
+title: <img src="makLab_logo.jpg" width="15%">
 ---
 
 <!-- ### About our lab -->
@@ -21,7 +21,7 @@ makLab is going to [ISEE 2019](https://isee2019.org/){target="_blank"}! See [her
 
 #### contact information
 
-makLab
+<img src="makLab_logo.jpg" width="10%">
 <br>
 [Department of Environmental Health Sciences](https://www.mailman.columbia.edu/become-student/departments/environmental-health-sciences-ehs){target="_blank"}
 <br>

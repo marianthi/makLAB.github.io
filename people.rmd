@@ -1,5 +1,5 @@
 ---
-title: "makLab members"
+title: "![](makLab_logo.jpg){width=15%} members"
 ---
 
 <center><img src="groupPic4.jpg" width="50%"></center>

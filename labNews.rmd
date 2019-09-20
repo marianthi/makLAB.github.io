@@ -1,8 +1,8 @@
 ---
-title: "makLab news"
+title: "![](makLab_logo.jpg){width=15%} news"
 ---
 
-### makLab presence @ [ISEE 2019](https://isee2019.org/){target="_blank"}
+### ![](makLab_logo.jpg){ width=10%} presence @ [ISEE 2019](https://isee2019.org/){target="_blank"}
 
 #### oral presentation sessions (OPS)
 

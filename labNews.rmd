@@ -2,6 +2,18 @@
 title: "![](makLab_logo.jpg){width=15%} news"
 ---
 
+<br>
+
+### ![](makLab_logo.jpg){ width=10%} presence @ [NeurIPS 2019](https://nips.cc/Conferences/2019/){target="_blank"} 
+
+#### Poster
+
+- _Accurate Uncertainty Estimation and Decomposition in Ensemble Learning_, by Jeremiah Z Liu, J Paisley, M-A Kioumourtzoglou, and BA Coull 
+- 21% acceptance rate
+
+<br>
+
+
 ### ![](makLab_logo.jpg){ width=10%} presence @ [ISEE 2019](https://isee2019.org/){target="_blank"}
 
 #### oral presentation sessions (OPS)

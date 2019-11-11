@@ -28,10 +28,16 @@ htmltools::tagList(rmarkdown::html_dependency_font_awesome())
 
 <!-- <div class="collapse" id="2019pp"> -->
 
-Chen Y, Wu F, Liu X, Parvez F, LoIacono NJ, <b>Gibson EA</b>, <b>Kioumourtzoglou M-A</b>, Levy D, et al. _Early life and adolescent arsenic exposure from drinking water and blood pressure in adolescence_, Environmental Research, In Press, 2019
+Colicino E, Just A, <b>Kioumourtzoglou M-A</b>, Vokonas P, Cardenas A, Sparrow D, Weisskopf M, Nie LH, Hu H, Schwartz JD, Wright RO, Baccarelli AA, _Blood DNA methylation biomarkers of cumulative lead exposure in adults_, JESEE, Epub ahead of print, 2019 [[link](https://www.ncbi.nlm.nih.gov/pubmed/31636367){target=__blank_}]
 
-<b>Gibson EA</b><sup><span>&#8224;</span></sup>, <b>N<span>&#250;&#241;</span>ez Y</b><sup><span>&#8224;</span></sup>, Abuawad A, Zota AR, Renzetti S, Devick KL, Gennings C, Golsmith J, Coull BA, <b>Kioumourtzoglou M-A</b>, _An Overview of Methods to Address Distinct Research Questions on Environmental Mixtures: An Application to Persistent Organic Pollutants and Leukocyte Telomere Length_, Environmental Health, In Press, 2019 <br>
-<small><sup><span>&#8224;</span></sup>The authors contributed equally</small>
+
+Chen Y, Wu F, Liu X, Parvez F, LoIacono NJ, <b>Gibson EA</b>, <b>Kioumourtzoglou M-A</b>, Levy D, et al. _Early life and adolescent arsenic exposure from drinking water and blood pressure in adolescence_, Environmental Research, In Press, 2019 [[link](https://www.ncbi.nlm.nih.gov/pubmed/31520830){target=__blank_}]
+
+
+<b>Gibson EA</b><sup><span>&#8224;</span></sup>, <b>N<span>&#250;&#241;</span>ez Y</b><sup><span>&#8224;</span></sup>, Abuawad A, Zota AR, Renzetti S, Devick KL, Gennings C, Golsmith J, Coull BA, <b>Kioumourtzoglou M-A</b>, _An Overview of Methods to Address Distinct Research Questions on Environmental Mixtures: An Application to Persistent Organic Pollutants and Leukocyte Telomere Length_, Environmental Health, 18(76), 2019 [[link](https://ehjournal.biomedcentral.com/articles/10.1186/s12940-019-0515-1#citeas){target=__blank_}]
+<br>
+<small><sup><span>&#8224;</span></sup>The authors contributed equally</small><br>
+<small>*Selected as paper of the month by NIEHS Environmental Factor</small>
 
 
 Choirat C, Braun D, <b>Kioumourtzoglou M-A</b>, _Data Science in Environmental Health Research_, Current Epidemiology Reports, Epub ahead of print, 2019 [[link](https://link.springer.com/article/10.1007/s40471-019-00205-5){target=__blank_}]
@@ -149,6 +155,8 @@ James P, <b>Kioumourtzoglou M-A</b>, Hart JE, Banay RF, Kloog I, Laden F, _Inter
 </div>
 
 <div class="collapse" id="1arxiv">
+
+McGee G, <b>Kioumourtzoglou M-A</b>, Weisskopf MG, Haneuse S, Coull BA, _On the Interplay Between Exposure Misclassification and Informative Cluster Size_, [arXiv:1910.07438](https://arxiv.org/abs/1910.07438){target=__blank_}
 
 Liu JZ, Paisley J, <b>Kioumourtzoglou M-A</b>, Coull BA, _Adaptive ensemble learning of spatiotemporal processes with calibrated predictive uncertainty: a Bayesian nonparametric approach_, [arXiv:1904.00521](https://arxiv.org/abs/1904.00521){target=__blank_}
 

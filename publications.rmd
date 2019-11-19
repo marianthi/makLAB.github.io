@@ -156,6 +156,8 @@ James P, <b>Kioumourtzoglou M-A</b>, Hart JE, Banay RF, Kloog I, Laden F, _Inter
 
 <div class="collapse" id="1arxiv">
 
+Liu JZ, Paisley J, <b>Kioumourtzoglou M-A</b>, Coull BA, _Accurate Uncertainty Estimation and Decomposition in Ensemble Learning_, [arXiv:1911.04061](https://arxiv.org/abs/1911.04061){target=__blank_}
+
 McGee G, <b>Kioumourtzoglou M-A</b>, Weisskopf MG, Haneuse S, Coull BA, _On the Interplay Between Exposure Misclassification and Informative Cluster Size_, [arXiv:1910.07438](https://arxiv.org/abs/1910.07438){target=__blank_}
 
 Liu JZ, Paisley J, <b>Kioumourtzoglou M-A</b>, Coull BA, _Adaptive ensemble learning of spatiotemporal processes with calibrated predictive uncertainty: a Bayesian nonparametric approach_, [arXiv:1904.00521](https://arxiv.org/abs/1904.00521){target=__blank_}

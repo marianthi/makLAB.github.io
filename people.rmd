@@ -29,7 +29,7 @@ title: "![](makLab_logo.jpg){width=15%} members"
 
 ### post-docs
 
-![](robbie.jpg){ width=12.5% }  [Robbie Parks](https://robbiemparks.github.io/){target="_blank"}, [Earth Institute](https://www.earth.columbia.edu/){target="_blank"} 
+![](robbie_new.jpg){ width=12.5% }  [Robbie Parks](https://robbiemparks.github.io/){target="_blank"}, [Earth Institute](https://www.earth.columbia.edu/){target="_blank"} 
 
 <br>
 
